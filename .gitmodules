@@ -1,3 +1,6 @@
 [submodule "vendor/tdd-nodejs"]
 	path = vendor/tdd-nodejs
 	url = https://github.com/gustavocondec/tdd-nodejs.git
+[submodule "vendor/react-draggable"]
+	path = vendor/react-draggable
+	url = https://github.com/react-grid-layout/react-draggable.git
