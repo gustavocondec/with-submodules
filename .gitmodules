@@ -1,0 +1,3 @@
+[submodule "vendor/tdd-nodejs"]
+	path = vendor/tdd-nodejs
+	url = https://github.com/gustavocondec/tdd-nodejs.git
